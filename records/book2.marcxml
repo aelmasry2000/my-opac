@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00000nam a2200000 a 4500</leader>
+  <controlfield tag="001">book2</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fatima Al-Kindi</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Logic in the Abbasid Era</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">Bayt al-Hikma</subfield>
+    <subfield code="c">900</subfield>
+  </datafield>
+</record>

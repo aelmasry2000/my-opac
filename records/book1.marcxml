@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00000nam a2200000 a 4500</leader>
+  <controlfield tag="001">book1</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ahmad ibn Yusuf</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Arabic Manuscripts of the 12th Century</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">Dar al-Kutub</subfield>
+    <subfield code="c">1150</subfield>
+  </datafield>
+</record>
